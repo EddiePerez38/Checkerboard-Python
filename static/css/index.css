@@ -1,0 +1,20 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+.row {
+    height: 50px;
+    width: 50px;
+}
+.box1 {
+    height: 98%;
+    width: 98%;
+    background: red;
+    display: inline-block;
+}
+.box2 {
+    height: 98%;
+    width: 98%;
+    background: blue;
+    display: inline-block;
+}
